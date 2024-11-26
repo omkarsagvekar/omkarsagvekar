@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @omkarsagvekar
-- 👀 I’m interested in as android software developer.
+- 👀 I’m interested in android software development.
 - 🌱 I’m currently learning android studio with java programming language.
 
 <!---
